@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">VistaFoto</string>
+    <string name="camara_title">CAMARA</string>
+    <string name="hacer_foto">HACER FOTO</string>
+    <string name="ingresar_nombre">Ingresar nombre</string>
+    <string name="ejemplo_recuerdo">Ejemplo: Recuerdo</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="foto_desc">Foto</string>
+    <string name="avatar_desc">Avatar</string>
+</resources>
